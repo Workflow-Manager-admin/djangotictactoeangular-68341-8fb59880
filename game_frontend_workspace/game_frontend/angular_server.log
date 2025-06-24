@@ -28,3 +28,4 @@ Watch mode enabled. Watching for file changes...
 NOTE: Raw file sizes do not reflect development server per-request transformations.
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.17.0.2:3000/
+Request for HTML file "/preview.html" was received but no asset found. Asset may be missing from build.
