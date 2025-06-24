@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && python manage.py migrate && python manage.py runserver 0.0.0.0:<port>",
+    "working_directory": "/home/kavia/workspace/code-generation/djangotictactoeangular-68341-8fb59880/game_backend_workspace/game_backend"
+}
